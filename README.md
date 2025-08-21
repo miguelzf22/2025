@@ -1,2 +1,3 @@
 # 2025
-yeah
+Legal bacana
+Lista 4-7 :)
