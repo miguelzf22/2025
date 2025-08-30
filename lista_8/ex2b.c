@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define MAX 5
+#define MAX 30
 
 int a[MAX], b[MAX], c[MAX*2], i;
 
