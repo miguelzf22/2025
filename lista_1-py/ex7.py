@@ -1,0 +1,1 @@
+print('%.2f' %((float((float(int(input('Insira N de coelhos: '))))*0.70))/18+10))

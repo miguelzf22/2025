@@ -1,0 +1,1 @@
+print(int(input('Insira valor: '))**2)

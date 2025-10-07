@@ -1,0 +1,1 @@
+print('%.2f'%(3.14159*((float(input('Insira o raio:'))))**2*(float(input('Insira a altura:')))))

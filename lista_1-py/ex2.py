@@ -1,0 +1,1 @@
+print('%.2f'%(((float(input('Insira fahrenheit:'))-32)*5)/9))
